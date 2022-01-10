@@ -1,0 +1,24 @@
+body{
+    background-color: #ffffff;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(202, 186, 123);
+    border-radius: 10px;
+}
+
+ .photo{
+    text-align: center;
+
+}
+h2{
+    text-align: center;
+    background-color: rgb(98, 102, 91);
+    border-radius: 10px;
+
+}
+h3{
+    border-color: lightblue;
+    border: solid 5px;
+}
